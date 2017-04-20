@@ -2,7 +2,11 @@ I have choosen first question - My Retail from the Case Study document
 
 This application interacts with the Mongodb(NOSQL) store to fetch and save the pricing information for a product using Spring Boot Framework.
 
-Technology: This is implemented in Spring boot framework along with Spring data framework in the persistence layer. In this we are starting the embeded tomcat sever and embeded mongodb database. This project has 2 parts in it.They are developed using MicroServices Architecture with API Gateway design pattern. myRetail-API-Gateway gets the request from the client for retreiving the product information from multiple sources. and myRetail-Price-catalog is responsible for data access operations.
+Technology: 
+
+This is implemented in Spring boot framework along with Spring data framework in the persistence layer. In this we are starting the embeded tomcat sever and embeded mongodb database. This project has 2 parts in it.They are developed using MicroServices Architecture with API Gateway design pattern.
+1)myRetail-API-Gateway gets the request from the client for retreiving the product information from multiple sources. and 
+2)myRetail-Price-catalog is responsible for data access operations.
 
 Prerequisites:
 
